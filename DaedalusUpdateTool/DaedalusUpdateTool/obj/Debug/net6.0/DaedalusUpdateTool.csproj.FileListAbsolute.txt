@@ -1,0 +1,15 @@
+C:\Users\bucks\source\repos\DaedalusUpdateTool\DaedalusUpdateTool\bin\Debug\net6.0\DaedalusUpdateTool.exe
+C:\Users\bucks\source\repos\DaedalusUpdateTool\DaedalusUpdateTool\bin\Debug\net6.0\DaedalusUpdateTool.deps.json
+C:\Users\bucks\source\repos\DaedalusUpdateTool\DaedalusUpdateTool\bin\Debug\net6.0\DaedalusUpdateTool.runtimeconfig.json
+C:\Users\bucks\source\repos\DaedalusUpdateTool\DaedalusUpdateTool\bin\Debug\net6.0\DaedalusUpdateTool.dll
+C:\Users\bucks\source\repos\DaedalusUpdateTool\DaedalusUpdateTool\bin\Debug\net6.0\DaedalusUpdateTool.pdb
+C:\Users\bucks\source\repos\DaedalusUpdateTool\DaedalusUpdateTool\obj\Debug\net6.0\DaedalusUpdateTool.csproj.AssemblyReference.cache
+C:\Users\bucks\source\repos\DaedalusUpdateTool\DaedalusUpdateTool\obj\Debug\net6.0\DaedalusUpdateTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bucks\source\repos\DaedalusUpdateTool\DaedalusUpdateTool\obj\Debug\net6.0\DaedalusUpdateTool.AssemblyInfoInputs.cache
+C:\Users\bucks\source\repos\DaedalusUpdateTool\DaedalusUpdateTool\obj\Debug\net6.0\DaedalusUpdateTool.AssemblyInfo.cs
+C:\Users\bucks\source\repos\DaedalusUpdateTool\DaedalusUpdateTool\obj\Debug\net6.0\DaedalusUpdateTool.csproj.CoreCompileInputs.cache
+C:\Users\bucks\source\repos\DaedalusUpdateTool\DaedalusUpdateTool\obj\Debug\net6.0\DaedalusUpdateTool.dll
+C:\Users\bucks\source\repos\DaedalusUpdateTool\DaedalusUpdateTool\obj\Debug\net6.0\refint\DaedalusUpdateTool.dll
+C:\Users\bucks\source\repos\DaedalusUpdateTool\DaedalusUpdateTool\obj\Debug\net6.0\DaedalusUpdateTool.pdb
+C:\Users\bucks\source\repos\DaedalusUpdateTool\DaedalusUpdateTool\obj\Debug\net6.0\DaedalusUpdateTool.genruntimeconfig.cache
+C:\Users\bucks\source\repos\DaedalusUpdateTool\DaedalusUpdateTool\obj\Debug\net6.0\ref\DaedalusUpdateTool.dll
